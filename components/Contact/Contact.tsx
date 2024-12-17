@@ -15,8 +15,7 @@ export default function Contact() {
             <div className="grid grid-cols-1 gap-12 md:grid-cols-3">
             
             <div className="md:col-span-3 grid grid-cols-1 gap-6">
-            <iframe src="https://maps.google.com/maps?q=20.000000,77.000000&z=5&output=embed" className="w-full h-96 rounded-lg" loading="lazy"></iframe>
-            </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.8778109458476!2d79.07672108517959!3d21.15726043030811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4c0e6085adad5%3A0x9384800a561bc12a!2sGirish%20Heights%2C%20NH%207%2C%20near%20L.I.C.%20Square%2C%20Tent%20Line%2C%20Mohan%20Nagar%2C%20Nagpur%2C%20Maharashtra%20440001!5e0!3m2!1sen!2sin!4v1734444493275!5m2!1sen!2sin" className="w-full h-96 rounded-lg" allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>            </div>
               
 
                 <div>
